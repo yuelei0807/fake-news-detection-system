@@ -1,0 +1,10 @@
+Feature,Description,Importance
+source_credibility,Source credibility (percentage of real news from the source),0.847
+hasImage,Whether the article has an image (1) or not (0),0.014
+text_word_count,Number of words in the article text,0.035
+title_word_count,Number of words in the article title,0.019
+title_sentiment,Sentiment score of the title (-1 to 1),0.009
+text_sentiment,Sentiment score of the text (-1 to 1),0.022
+title_fake_terms_score,Count of fake news associated terms in the title,0.024
+text_fake_terms_score,Count of fake news associated terms in the text,0.03
+fake_news_probability,Combined fake news probability score,0.0
